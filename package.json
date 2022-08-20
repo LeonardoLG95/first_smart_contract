@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial to learn smart contracts with solidity",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "5.2",
+    "chai": "4.3",
+    "chai-as-promised": "7.1",
+    "chai-bignumber": "3.0",
+    "lite-server": "2.6",
+    "nodemon": "2.0",
+    "truffle": "5.5",
+    "truffle-contract": "1.0",
+    "web3": "1"
+  }
+}
